@@ -4,6 +4,7 @@
 
 int WINAPI WinMain(HINSTANCE hInstance ,HINSTANCE hPrevInstance , PSTR lpCmdLine , int nCmdShow ) {
 	
+  //add comment
 	char *command;
 	int length = strlen(__argv[1]);
 	
